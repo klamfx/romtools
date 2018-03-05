@@ -1,0 +1,11 @@
+
+This archive contain a set of utilities program to work with ROM file.
+
+dump
+	A simple binary file dumper.
+
+mergerom
+	A simple ROM merge utility that recombine EVEN and ODD ROM dump on the Amiga into a single file.
+
+splitrom
+	A simple ROM split utility that split single ROM image into EVEN and ODD ROM image for burning.
